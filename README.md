@@ -1,4 +1,4 @@
-# hcktv-P1-W1D1-CheckVowelsInArray
+Basic Logic - Check Vowels in Array
 
 # Check Vowels in Array
 Learning Competencies
